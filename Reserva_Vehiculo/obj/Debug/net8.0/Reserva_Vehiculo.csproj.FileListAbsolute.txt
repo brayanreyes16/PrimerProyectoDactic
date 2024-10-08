@@ -1,0 +1,15 @@
+/workspaces/162190189/C#/Tarea4/Reserva_Vehiculo/obj/Debug/net8.0/Reserva_Vehiculo.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/162190189/C#/Tarea4/Reserva_Vehiculo/obj/Debug/net8.0/Reserva_Vehiculo.AssemblyInfoInputs.cache
+/workspaces/162190189/C#/Tarea4/Reserva_Vehiculo/obj/Debug/net8.0/Reserva_Vehiculo.AssemblyInfo.cs
+/workspaces/162190189/C#/Tarea4/Reserva_Vehiculo/obj/Debug/net8.0/Reserva_Vehiculo.csproj.CoreCompileInputs.cache
+/workspaces/162190189/C#/Tarea4/Reserva_Vehiculo/obj/Debug/net8.0/Reserva_Vehiculo.sourcelink.json
+/workspaces/162190189/C#/Tarea4/Reserva_Vehiculo/bin/Debug/net8.0/Reserva_Vehiculo
+/workspaces/162190189/C#/Tarea4/Reserva_Vehiculo/bin/Debug/net8.0/Reserva_Vehiculo.deps.json
+/workspaces/162190189/C#/Tarea4/Reserva_Vehiculo/bin/Debug/net8.0/Reserva_Vehiculo.runtimeconfig.json
+/workspaces/162190189/C#/Tarea4/Reserva_Vehiculo/bin/Debug/net8.0/Reserva_Vehiculo.dll
+/workspaces/162190189/C#/Tarea4/Reserva_Vehiculo/bin/Debug/net8.0/Reserva_Vehiculo.pdb
+/workspaces/162190189/C#/Tarea4/Reserva_Vehiculo/obj/Debug/net8.0/Reserva_Vehiculo.dll
+/workspaces/162190189/C#/Tarea4/Reserva_Vehiculo/obj/Debug/net8.0/refint/Reserva_Vehiculo.dll
+/workspaces/162190189/C#/Tarea4/Reserva_Vehiculo/obj/Debug/net8.0/Reserva_Vehiculo.pdb
+/workspaces/162190189/C#/Tarea4/Reserva_Vehiculo/obj/Debug/net8.0/Reserva_Vehiculo.genruntimeconfig.cache
+/workspaces/162190189/C#/Tarea4/Reserva_Vehiculo/obj/Debug/net8.0/ref/Reserva_Vehiculo.dll
